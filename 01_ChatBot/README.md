@@ -8,9 +8,7 @@ Welcome to the **AI Shopping Bot** project! This repository contains the source 
 - **MockAPI:** Seamless product management using a mock API for product data.  
 - **Custom State Management:** Extendable and easy-to-manage bot states for personalized user interactions.  
 
----
-
-## 🛠️ Setup Instructions  
+--- 
 
 ### Prerequisites  
 Ensure you have the following installed on your system:  
