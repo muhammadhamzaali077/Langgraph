@@ -1,4 +1,4 @@
-# Class 01: Introduction to Nodes, Edges, and Graphs Using LangChain  
+# Class 02: Introduction to Nodes, Edges, and Graphs Using LangGraph  
 
 Welcome to the first session of the LangChain Ecosystem series! 🚀  
 
